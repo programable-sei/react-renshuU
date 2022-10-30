@@ -1,13 +1,13 @@
 import './App.css';
-import { React, useState } from "react";
+import { React } from "react";
 // import Todo from "./components/Todo"
 import Modal2 from "./components/Modal2"
 
 function App() {
  
-  const button = {
-    cursor: "pointer",
-  }
+  // const button = {
+  //   cursor: "pointer",
+  // }
 
   return (
     <>

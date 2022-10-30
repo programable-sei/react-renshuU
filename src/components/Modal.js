@@ -5,7 +5,7 @@ const Modal = ({showModal, setShowModal, createTodo}) => {
   const button = {
     cursor: "pointer",
   }
-
+  https://www.netlify.com/
   const handleModal = () => {
     setShowModal(false);
   }
